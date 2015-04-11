@@ -1,7 +1,7 @@
 <!-- save to 
 Mac OS X: ~/Library/Preferences/{WebIdeXX}/codestyles
 -->
-<code_scheme name="keystone">
+<code_scheme name="weekwood">
   <JSCodeStyleSettings>
     <option name="INDENT_PACKAGE_CHILDREN" value="1" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
